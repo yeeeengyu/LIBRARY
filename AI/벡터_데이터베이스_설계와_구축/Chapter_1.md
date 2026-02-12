@@ -72,5 +72,6 @@ RDB에서 테이블 간의 관계를 표현할 때에는 외래키를 참조하�
     - 원천데이터 -> NoSQL ( MongoDB , File 등등)
     - 벡터화 데이터 -> 벡터DB ( Chroma, FAISS )
     - 대화 저장 -> RDBMS ( Oracle DB, MySQL )<br>
-    <small>최근에는 MongoDB Atlas에서도 벡터검색을 제공함 </small>
+
+<small>최근에는 MongoDB Atlas에서도 벡터검색을 제공함 </small>
 <br>
